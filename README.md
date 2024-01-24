@@ -1,11 +1,9 @@
-# TradingView JS API Examples
+# TradingView JS API
 
 > In order to run these examples you need to download the private [TradingView Charting Library](https://github.com/tradingview/charting_library) from github, which you must [apply](https://www.tradingview.com/HTML5-stock-forex-bitcoin-charting-library/) for acces to from TradingView. These won't work without the Library!
 > If you do have access to the repo, then follow the instructions at the bottom of this Readme
 
 Code for a series about using the TradingView Charting Library's JS API. 
-
-Find the guide on Medium [here](https://medium.com/@jonchurch/tradingview-js-api-integration-tutorial-introduction-5e4809d9ef36)
 
 ## Setup
 
